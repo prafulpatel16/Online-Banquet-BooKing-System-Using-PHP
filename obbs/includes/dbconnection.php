@@ -1,6 +1,6 @@
 <?php 
 // DB credentials.
-define('DB_HOST','10.161.112.11');
+define('DB_HOST','10.161.112.2');
 define('DB_USER','app01');
 define('DB_PASS','admin');
 define('DB_NAME','obbs');
