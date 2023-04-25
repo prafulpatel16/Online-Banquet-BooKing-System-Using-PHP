@@ -1,3 +1,4 @@
+<?php include "../inc/dbinfo.inc"; ?>
 <?php 
 // DB credentials.
 define('DB_HOST','10.161.112.2');
