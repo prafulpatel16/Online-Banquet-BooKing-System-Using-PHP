@@ -1,10 +1,10 @@
 <?php include "../inc/dbinfo.inc"; ?>
-<?php 
+<?php
 // DB credentials.
-define('DB_HOST','');
-define('DB_USER','');
-define('DB_PASS','');
-define('DB_NAME','');
+define('DB_HOST','{{DB_HOST}}');
+define('DB_USER','{{DB_USER}}');
+define('DB_PASS','{{DB_PASS}}');
+define('DB_NAME','{{DB_NAME}}');
 // Establish database connection.
 try
 {
